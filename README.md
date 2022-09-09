@@ -1,4 +1,4 @@
-# Life Expectancy and GDP Relationship 2022
+# Life Expectancy and GDP Relationship
 This project will investigates the effect of socioeconomic development using GDP on life expectancy in eight countries (Chile, China , Germany, India, Indonesia, Mexico, United States of America, and Zimbabwe).
 
 <p align="center">
@@ -10,8 +10,8 @@ Life Expectancy refers to the number of years a person can expect to live, based
 Gross Domestic Product (GDP) is the monetary value of all finished goods and service made within a country during a specific period. GDP provides an economic snapshot of a country and used to estimate the size of an economy and growth rate.
 
 This project will analyze GDP and life expectancy variable of a country and answer the following questions:
-1. Has life expectancy increased over time in the six nations?
-2. Has GDP increased over time in the six nations?
+1. Has life expectancy increased over time in the eight nations?
+2. Has GDP increased over time in the eight nations?
 3. What is the average life expectancy of these nations?
 4. Is there a correlation between GDP and life expectancy of a country?
 
