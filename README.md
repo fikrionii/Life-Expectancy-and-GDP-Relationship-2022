@@ -21,7 +21,7 @@ For this project, GDP data is obtained from [World Bank](https://data.worldbank.
 
 The dataset consist of 4 columns:
 - `Country` : Country of observation
-- `Year` : Year of observation
+- `Year` : Year of observation, covers from 2000 to 2020
 - `Life Expectancy at birth (years)` : The average number of years that a newborn could expect to live
 - `GDP` : Gross Domestic Product of the country (in USD)
 
